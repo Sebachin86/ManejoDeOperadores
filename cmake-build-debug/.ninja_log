@@ -1,0 +1,17 @@
+# ninja log v6
+4	389	7561538006736327	CMakeFiles/ManejoDeOperadores.dir/main.cpp.obj	dfbcf28c339950fe
+6	371	7561552404766864	CMakeFiles/evaluacionAdmisiones.dir/evaluacionAdmisiones.cpp.obj	4a914c1aab89425f
+391	686	7561538010594760	ManejoDeOperadores.exe	de6006a63ddcb82b
+372	441	7561552408419047	evaluacionAdmisiones.exe	b2833ebb1fbddba7
+376	459	7561559871271736	operadoresLogicosRelacionales.exe	512d7fdce7b3eca8
+5	421	7561566790060332	CMakeFiles/operadoresBitwise.dir/operadoresBitwise.cpp.obj	e24e99956e1f2327
+2	376	7561559867520290	CMakeFiles/operadoresLogicosRelacionales.dir/operadoresLogicosRelacionales.cpp.obj	7ab12beaf17fca72
+421	496	7561566794208975	operadoresBitwise.exe	bf6ec6ef2a73aa07
+5	535	7561570235968159	CMakeFiles/gestionPermisos.dir/gestionPermisos.cpp.obj	67ae358f039fdac8
+535	672	7561570241269646	gestionPermisos.exe	cb14cfca3a52e556
+2	364	7561573022197118	CMakeFiles/operadoresAsignacion.dir/operadoresAsignacion.cpp.obj	605af63ade07fcb3
+364	435	7561573025816675	operadoresAsignacion.exe	e47cf028694784f7
+5	371	7561574148358647	CMakeFiles/operadoresIncrementoPrePost.dir/operadoresIncrementoPrePost.cpp.obj	c60dd24ad4b0bd9a
+372	441	7561574152028848	operadoresIncrementoPrePost.exe	39d975179b8dafb5
+3	457	7561578307164184	CMakeFiles/tolkensAlternativos.dir/tolkensAlternativos.cpp.obj	893d9306d963b199
+458	536	7561578311719947	tolkensAlternativos.exe	b7b318c4d8186619
